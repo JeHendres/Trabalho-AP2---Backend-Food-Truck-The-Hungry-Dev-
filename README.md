@@ -7,10 +7,15 @@ API simples desenvolvida em Node.js com Express para gerenciamento de pedidos de
 📁 Estrutura do Projeto
 food-truck-backend/
 │
+
 ├── database.js
+
 ├── pedidoService.js
+
 ├── service.js
+
 ├── server.js
+
 ├── package.json
 
 🚀 Como executar o projeto: 
